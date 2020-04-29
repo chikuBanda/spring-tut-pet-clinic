@@ -1,4 +1,4 @@
 package com.chiku.petclinicapp.model;
 
-public class Vet {
+public class Vet extends Person{
 }
